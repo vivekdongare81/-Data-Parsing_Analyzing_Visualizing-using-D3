@@ -11,11 +11,13 @@ Consists of Parsing given CSV file to JSON and Analyzing data on Request from Us
 - Tomcat Server
 
 ## DEMO
-
+< Count of Products in Each Category >
 ![image](https://user-images.githubusercontent.com/74758376/183020850-33feb7ec-8f92-42ea-a4db-77e754398710.png)
 
+< Aggregate of Sales in each month >
 ![image](https://user-images.githubusercontent.com/74758376/183020836-925c2b8b-9470-4950-8c27-34a1939f8452.png)
 
+< Average of Sales in each Year >
 ![image](https://user-images.githubusercontent.com/74758376/183020860-01e04638-b862-4dd2-9dc3-f1fecad14466.png)
 
 
