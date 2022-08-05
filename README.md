@@ -10,6 +10,15 @@ Consists of Parsing given CSV file to JSON and Analyzing data on Request from Us
 - D3 JS Library
 - Tomcat Server
 
+## DEMO
+
+![image](https://user-images.githubusercontent.com/74758376/183020850-33feb7ec-8f92-42ea-a4db-77e754398710.png)
+
+![image](https://user-images.githubusercontent.com/74758376/183020836-925c2b8b-9470-4950-8c27-34a1939f8452.png)
+
+![image](https://user-images.githubusercontent.com/74758376/183020860-01e04638-b862-4dd2-9dc3-f1fecad14466.png)
+
+
 |              | Required Download Link                                                                  |
 | ----------------- | ------------------------------------------------------------------ |
 | D3 | [https://registry.npmjs.org/d3/-/d3-7.6.1.tgz](https://registry.npmjs.org/d3/-/d3-7.6.1.tgz)|
