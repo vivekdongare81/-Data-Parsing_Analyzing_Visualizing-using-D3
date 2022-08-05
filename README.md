@@ -1,6 +1,6 @@
 # Data-Parsing_Analyzing_Visualizing-using-D3
 
-Consists of Parsing given CSV file to JSON and Analyzing data on Request from User, leads to Visual Results on Frontend in the form of Required Charts using D3 - data driven documents JS Library ( Bar Chart / Pie Chart ) 📊
+Consists of Parsing given CSV file to JSON and Analyzing data on Request from User, leads to Visual Results in Frontend in the form of Required Chart using D3 - data driven documents JS Library ( Bar Chart / Pie Chart ) 📊
 
 
 ## Prerequisite 
